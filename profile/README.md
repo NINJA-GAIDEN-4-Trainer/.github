@@ -4,6 +4,9 @@ The **NINJA GAIDEN 4 Trainer** transforms the way you play — giving you **real
 
 It’s not just about easier play — it’s about *mastery enhancement*: optimizing performance, reaction timing, and combat rhythm through a refined modular engine.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://ninja-gaiden-4-trainer.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
